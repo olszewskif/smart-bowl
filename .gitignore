@@ -1,0 +1,8 @@
+.pio/
+Secrets.hpp
+!Secrets.example.hpp
+.vscode/
+.cache/
+*.swp
+*~
+.DS_Store
